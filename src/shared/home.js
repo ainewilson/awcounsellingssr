@@ -37,7 +37,7 @@ const Home = () => {
       <p>Shame and Guilt are two moral powerful emotions that we are not born with.  They are emotions we experience along life’s journey.  They can have a major impact on how we live our lives and how we feel about ourselves.</p>
 
       <h5>Anxiety Management</h5>
-      <p>When anxiety is severe or there all the time, it makes it hard to cope with daily life.  Anxiety can cause physical symptoms like pain, a pounding heart or stomach cramps.  Anxiety is when those feelings do not go away, they are extreme for the situation, and you cannot seem to control them.  It can also affect other areas of your life – like your ability to cope, perform at work and enjoy the things you used to enjoy.</p>
+      <p>When anxiety is severe or there all the time, it makes it hard to cope with daily life.  Anxiety can cause physical symptoms like pain, a pounding heart or stomach cramps.  Anxiety is when those feelings do not go away, they are extreme for the situation, and you cannot seem to control them.  It can also affect other areas of your life – like your ability to cope, perform at work and enjoy the things you used to enjoy...</p>
 
       <p className="text-center bg-light p-2">Aine Wilson Counselling ACC. A.C.I.<br />
       <span className="font-weight-bold">t.</span> 028 6772 1046 - <span className="font-weight-bold">m.</span> 07792 304 731 - <span className="font-weight-bold">m.</span> 00353 (0) 863 086 381<br />
